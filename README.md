@@ -1,6 +1,6 @@
 👋 Hi, I'm Fawaz – a Senior Full-Stack Engineer with over 10 years of experience delivering scalable web and mobile applications across diverse industries like e-commerce, construction, and IoT.
 
-<h2>Hire me at [Toptal](https://www.toptal.com/resume/muhammad-fawwaz-orabi) or [Upwork](https://www.upwork.com/freelancers/~01ec5adc9201e6415a).</h2>
+**Hire me at [Toptal](https://www.toptal.com/resume/muhammad-fawwaz-orabi) or [Upwork](https://www.upwork.com/freelancers/~01ec5adc9201e6415a).**
 
 💻 Expert in:
 * Front-end: React, React Native, TypeScript
