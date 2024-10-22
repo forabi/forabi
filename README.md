@@ -16,14 +16,7 @@
 
 🌟 Open Source Contributions: In addition to my professional experience, I actively contribute to the open source community, sharing tools and libraries to improve the development ecosystem. Some of my notable contributions include:
 
-[React Week Scheduler](https://github.com/remotelock/react-week-scheduler)
-[DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-[Validator.js](https://github.com/validatorjs/validator.js/)
-[ha_tuya_ble](https://github.com/PlusPlus-ua/ha_tuya_ble)
-[Hollowverse](https://github.com/hollowverse)
-[Home Assistant PowerCalc](https://github.com/bramstroker/homeassistant-powercalc/)
-[graphql-request](https://github.com/graffle-js/graffle/blob/main/README.md)
-[jQuery Timeago](https://github.com/rmm5t/jquery-timeago/)
+[React Week Scheduler](https://github.com/remotelock/react-week-scheduler) ⏺ [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) ⏺ [Validator.js](https://github.com/validatorjs/validator.js/) ⏺ [ha_tuya_ble](https://github.com/PlusPlus-ua/ha_tuya_ble) ⏺ [Hollowverse](https://github.com/hollowverse) ⏺ [Home Assistant PowerCalc](https://github.com/bramstroker/homeassistant-powercalc/) ⏺ [graphql-request](https://github.com/graffle-js/graffle/blob/main/README.md) ⏺ [jQuery Timeago](https://github.com/rmm5t/jquery-timeago/)
 
 
 🌍 Remote work advocate with extensive experience leading distributed teams and driving innovative solutions.
